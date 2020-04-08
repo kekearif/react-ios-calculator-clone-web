@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-ios-calculator-clone-web/static/css/main.0e5b2a31.chunk.css",
-    "main.js": "/react-ios-calculator-clone-web/static/js/main.24f7d872.chunk.js",
-    "main.js.map": "/react-ios-calculator-clone-web/static/js/main.24f7d872.chunk.js.map",
+    "main.js": "/react-ios-calculator-clone-web/static/js/main.cb9f7410.chunk.js",
+    "main.js.map": "/react-ios-calculator-clone-web/static/js/main.cb9f7410.chunk.js.map",
     "runtime-main.js": "/react-ios-calculator-clone-web/static/js/runtime-main.bb476f05.js",
     "runtime-main.js.map": "/react-ios-calculator-clone-web/static/js/runtime-main.bb476f05.js.map",
     "static/js/2.d087b8bb.chunk.js": "/react-ios-calculator-clone-web/static/js/2.d087b8bb.chunk.js",
     "static/js/2.d087b8bb.chunk.js.map": "/react-ios-calculator-clone-web/static/js/2.d087b8bb.chunk.js.map",
     "index.html": "/react-ios-calculator-clone-web/index.html",
-    "precache-manifest.24547242984188370d77c89e465497c2.js": "/react-ios-calculator-clone-web/precache-manifest.24547242984188370d77c89e465497c2.js",
+    "precache-manifest.6700eedc5a3215c7af1f93f079fdac84.js": "/react-ios-calculator-clone-web/precache-manifest.6700eedc5a3215c7af1f93f079fdac84.js",
     "service-worker.js": "/react-ios-calculator-clone-web/service-worker.js",
     "static/css/main.0e5b2a31.chunk.css.map": "/react-ios-calculator-clone-web/static/css/main.0e5b2a31.chunk.css.map",
     "static/js/2.d087b8bb.chunk.js.LICENSE.txt": "/react-ios-calculator-clone-web/static/js/2.d087b8bb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bb476f05.js",
     "static/js/2.d087b8bb.chunk.js",
     "static/css/main.0e5b2a31.chunk.css",
-    "static/js/main.24f7d872.chunk.js"
+    "static/js/main.cb9f7410.chunk.js"
   ]
 }
