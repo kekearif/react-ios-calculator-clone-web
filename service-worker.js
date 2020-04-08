@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-ios-calculator-clone-web/precache-manifest.ee522d777ae9d37df6a9605acc63e88f.js"
+  "/react-ios-calculator-clone-web/precache-manifest.813a19ebe4910c9fe8f945b79165dde1.js"
 );
 
 self.addEventListener('message', (event) => {
